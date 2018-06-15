@@ -1,0 +1,72 @@
+#System to add your problems. 
+
+Name: Problem1
+Img: Realworld1.png
+Img: Idealizedmodel1.png
+
+Assumption: Hip acts as a pivot point (no lifting off the bed)
+Answer: correct
+
+Assumption: Incorrect Assumption #1.1 
+Answer: incorrect
+Reason: Valid Reason #1.1.1
+Reason_Answer: correct
+Reason: Invalid Reason #1.1.2
+Reason_Answer: incorrect
+Reason: Invalid Reason #1.1.3
+Reason_Answer: incorrect
+
+Assumption: Lower leg remains approximately perpendicular to upper leg
+Answer: incorrect
+
+Assumption: Incorrect Assumption #1.2
+Answer: incorrect
+Reason: Invalid Reason #1.2.1 
+Reason_Answer: incorrect
+Reason: Invalid Reason #1.2.2
+Reason_Answer: incorrect
+Reason: Invalid Reason #1.2.3
+Reason_Answer: incorrect
+Reason: Valid Reason #1.2.4
+Reason_Answer: correct
+
+Assumption: Forces are reasonably approximated using static analysis
+Answer: incorrect
+
+Assumption: Patient does not slide on the bed
+Answer: incorrect
+
+Assumption: Complicating Assumption #Who Cares I Am Making All This Up?
+Answer: complicated
+Reason: Invalid Reason #x.y.z
+Reason_Answer: incorrect
+Reason: Valid Reason
+Reason_Answer: correct
+Reason: Invalid Reason #hashtag
+Reason_Answer: incorrect
+Reason: Invalid Reason #HertzRules!
+Reason_Answer: incorrect
+
+Assumption: Incorrect Assumption that includes a lot of text to make certain you can handle it #1.3
+Answer: incorrect
+Reason: Valid Reason #ExamplesAreHard
+Reason_Answer: correct
+Points: 10
+---
+Name: Problem2
+Img: Realworld2.png
+Img: Idealizedmodel2.png
+
+Assumption: Forces are reasonably approximated using static analysis
+Answer: correct
+
+Assumption: Lower leg remains approximately perpendicular to upper leg
+Answer: incorrect
+
+Assumption: Hip acts as a pivot point (no lifting off the bed)
+Answer: incorrect
+
+Assumption: Patient does not slide on the bed
+Answer: incorrect
+Points: 5
+end
